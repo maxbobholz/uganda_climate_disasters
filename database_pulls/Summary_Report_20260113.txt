@@ -1,0 +1,139 @@
+================================================================================
+UGANDA DISASTER DATA SUMMARY REPORT
+Generated: 2026-01-13 16:01
+Time Period: 2000 - 2025
+================================================================================
+
+NATIONAL LEVEL SUMMARY
+--------------------------------------------------------------------------------
+Total Events: 587
+
+Event Types:
+  Floods: 306
+  Landslides: 77
+  Storms: 162
+  Droughts: 23
+  Earthquakes: 1
+  Fires: 47
+
+Total Impacts (2000-2025):
+  People Affected: 2,435,031
+  People Displaced: 2,080,844
+  Deaths: 4,868
+  Injuries: 603
+  Homes Affected: 123,540
+
+================================================================================
+TEMPORAL COMPARISON: PRE-2020 vs SINCE 2020
+================================================================================
+
+PRE-2020 (19 years: 2000-2019)
+--------------------------------------------------------------------------------
+Total affected: 490,563
+Total displaced: 978,931
+Total deaths: 1,774
+Total homes affected: 1,210
+Total events: 98
+
+Annual Averages (Pre-2020):
+  Affected per year: 25,819.1
+  Displaced per year: 51,522.7
+  Deaths per year: 93.4
+  Homes affected per year: 63.7
+  Events per year: 5.2
+
+SINCE 2020 (6 years: 2020-2025)
+--------------------------------------------------------------------------------
+Total affected: 1,944,468
+Total displaced: 1,101,913
+Total deaths: 3,094
+Total homes affected: 122,330
+Total events: 489
+
+Annual Averages (Since 2020):
+  Affected per year: 324,078.0
+  Displaced per year: 183,652.2
+  Deaths per year: 515.7
+  Homes affected per year: 20,388.3
+  Events per year: 81.5
+
+CHANGE IN ANNUAL AVERAGES
+--------------------------------------------------------------------------------
+Displaced per year: +256.4%
+Affected per year: +1155.2%
+Events per year: +1480.1%
+
+================================================================================
+TOP 10 MOST AFFECTED DISTRICTS (by total displaced)
+================================================================================
+
+Bulambuli                
+  Displaced: 243,640
+  Affected: 104,950
+  Deaths: 22
+  Events: 17
+
+Kasese                   
+  Displaced: 209,518
+  Affected: 221,315
+  Deaths: 128
+  Events: 42
+
+Amuru                    
+  Displaced: 136,383
+  Affected: 84,118
+  Deaths: 0
+  Events: 11
+
+Yumbe                    
+  Displaced: 104,390
+  Affected: 66,583
+  Deaths: 0
+  Events: 2
+
+Sironko                  
+  Displaced: 79,881
+  Affected: 15,816
+  Deaths: 79
+  Events: 12
+
+Butaleja                 
+  Displaced: 46,012
+  Affected: 112,564
+  Deaths: 1
+  Events: 11
+
+Bukedea                  
+  Displaced: 44,231
+  Affected: 129,741
+  Deaths: 145
+  Events: 10
+
+Buliisa                  
+  Displaced: 38,700
+  Affected: 0
+  Deaths: 0
+  Events: 2
+
+Ntoroko                  
+  Displaced: 37,690
+  Affected: 14,906
+  Deaths: 0
+  Events: 17
+
+Mbale                    
+  Displaced: 31,384
+  Affected: 425,236
+  Deaths: 51
+  Events: 22
+
+================================================================================
+FILES CREATED
+================================================================================
+National_Summary_20260113.csv
+  National-level statistics with annual data (2000-2025)
+
+District_Summary_20260113.csv
+  District-level statistics for 103 districts with events
+
+================================================================================
