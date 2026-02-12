@@ -1,6 +1,8 @@
 # Comprehensive database of climate disaster events (and their impacts) in Uganda
 
 This repository centers around a relational database -- created by means of document analysis -- that contains a variety of valuable metadata for climate disaster events in Uganda since 2008. The **Events Database** (and other relevant files for understanding its structure) can be found in the `database` directory.
+<img width="2304" height="1296" alt="A1_RDBSchema_v4" src="https://github.com/user-attachments/assets/5178469a-1bee-4f29-9b67-9376d57a38ed" />
+
 
 ### `database` directory
 This repository contains three files that are all related to the **Events Database**:
